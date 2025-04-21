@@ -76,7 +76,8 @@ Urban Assist addresses the challenge of fragmented service discovery and booking
 
 ---
 ## 🚀 Architecture Overview
-![architectureal flow](https://github.com/user-attachments/assets/1b191719-80ea-4a0e-bb1f-f9187e56b5a1)
+![architectureal flow](https://github.com/user-attachments/assets/ba65992d-a141-4ada-90ae-0319f8800796)
+
 
 
 ## 📐 Design Principles
