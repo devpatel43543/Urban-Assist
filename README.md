@@ -1,7 +1,7 @@
-# Urban Assist
+# UrbanHive
 
 ## 📌 Problem Statement
-Urban Assist addresses the challenge of fragmented service discovery and booking in urban environments. Our platform streamlines the process of finding, booking, and paying for various urban services through a unified, secure, and user-friendly interface. By connecting service providers with consumers, Urban Assist eliminates inefficiencies in service discovery, reduces booking friction, and creates a reliable marketplace for urban services.
+UrbanHive addresses the challenge of fragmented service discovery and booking in urban environments. Our platform streamlines the process of finding, booking, and paying for various urban services through a unified, secure, and user-friendly interface. By connecting service providers with consumers, UrbanHive eliminates inefficiencies in service discovery, reduces booking friction, and creates a reliable marketplace for urban services.
 
 ---
 
@@ -208,7 +208,7 @@ Our application follows these key principles:
 **Background:**
 Sarah is a 28-year-old marketing professional living in a bustling city. She has a busy schedule and needs quick access to services like laptop repair and yoga classes.
 
-**How Urban Assist Helps Sarah:**
+**How UrbanHive Helps Sarah:**
 - **Unified Service Discovery**: One-stop platform to find and book services.
 - **Trustworthy Listings**: Verified providers with ratings and reviews.
 - **Easy Booking**: Real-time availability and instant confirmations.
