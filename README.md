@@ -47,6 +47,45 @@ Urban Assist addresses the challenge of fragmented service discovery and booking
 
 ---
 
+## Website Glimpses
+
+Below are some GIFs and animations showcasing various features of the application:
+
+- **Register**  
+  ![Register](https://imgur.com/8AQFARU.gif)
+
+- **Homepage**  
+  ![Homepage](https://imgur.com/ikb9i49.gif)
+
+- **Discover**  
+  ![Discover](https://imgur.com/S7Wxi5G.gif)
+
+- **My Bookings**  
+  ![My bookings](https://imgur.com/Zk5cB8o.gif)
+
+- **Provider's Homepage**  
+  ![Provider's Homepage](https://imgur.com/5S1RuKB.gif)
+
+- **Booking History**  
+  ![Booking History](https://imgur.com/e4yjba2.gif)
+
+- **Payment Slip**  
+  ![Payment slip](https://imgur.com/ZUuXvnz.gif)
+
+- **Bookings**  
+  ![Bookings](https://imgur.com/4ukIC8d.gif)
+
+- **Portfolio**  
+  ![Portfolio](https://imgur.com/VmEsanq.gif)
+
+- **Settings**  
+  ![Settings](https://imgur.com/8PZshXh.gif)
+
+- **Admin Panel**  
+  ![Admin](https://imgur.com/ZrSNjfh.gif)
+
+---
+
 ## 🛠️ Technology Stack
 
 ### Frontend
